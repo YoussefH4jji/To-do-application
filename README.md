@@ -13,7 +13,7 @@ Features:
 
 Installation:
 
-1. Clone the repository to your local machine: git clone https://github.com/yourusername/todo-app.git
+1. Clone the repository to your local machine: git clone https://github.com/YoussefH4jji/To-do-application.git
 2. Navigate to the project directory: cd todo-app
 3. Install dependencies: npm install
 ------------------------------------------------------------------------------------------------------------------------------------------------
