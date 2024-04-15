@@ -20,8 +20,8 @@ Installation:
 
 Usage:
 
-1. Start the development server: npm start
-2. Open your browser and navigate to http://localhost:3000 to view the application.
+1. Start the development server: npm run dev
+2. Open your browser and navigate to the local link on your terminal to view the application.
 3. Add tasks to the todo list, set timers for tasks, and play music while you work!
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
